@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45399822194",
+    "firebase_url": "https://wallpaperprot.firebaseio.com",
+    "project_id": "wallpaperprot",
+    "storage_bucket": "wallpaperprot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45399822194:android:647e9f18aba4b6578517eb",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_prot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45399822194-dr03easdv3ab0a2976mgpitfs2vi8375.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nHpYuExvmTiMK5ne7VT-buHgnf4wUV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45399822194-dr03easdv3ab0a2976mgpitfs2vi8375.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
